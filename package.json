@@ -1,0 +1,23 @@
+{
+  "name": "nodeman",
+  "version": "1.0.0",
+  "description": "Hangman via Node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msshae23/nodeman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msshae23/nodeman/issues"
+  },
+  "homepage": "https://github.com/msshae23/nodeman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
